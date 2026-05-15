@@ -185,8 +185,8 @@ nav.scrolled {
 }
 
 .profile-pic, .profile-placeholder {
-    width: 240px;
-    height: 240px;
+    width: 320px;
+    height: 320px;
     border-radius: 20px;
     object-fit: cover;
     border: 1px solid var(--glass-border);
